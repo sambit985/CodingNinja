@@ -10,6 +10,7 @@ class Node{
     }
 }
 
+
 public class BinaryTreeInsert {
     Node root;
     public void insert(Node node,int data){
